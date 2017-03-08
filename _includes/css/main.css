@@ -468,3 +468,12 @@ footer .footer-below {
 .section-header {
   margin-bottom: 50px;
 }
+
+.para-link {
+  color: white;
+  text-decoration: underline;
+}
+
+.para-link:hover {
+  color: white;
+}
