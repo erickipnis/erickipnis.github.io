@@ -5,79 +5,55 @@
     <description>My personal portfolio website</description>
     <link>http://localhost:4444/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Mar 2017 22:03:54 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 22:03:54 -0500</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2017 22:29:26 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 22:29:26 -0400</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Project 1</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/18/project-1/</guid>
+        <title>Radicchio</title>
+        <description>Radicchio is an open-source, server-side timer library developed in JavaScript for the NodeJS runtime. The library utilizes Redis to keep track of TTL and was published as a package on npm.</description>
+        <pubDate>Fri, 23 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4444/side%20project/2016/12/23/radicchio/</link>
+        <guid isPermaLink="true">http://localhost:4444/side%20project/2016/12/23/radicchio/</guid>
         
         
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 2</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/17/project-2/</guid>
-        
-        
-        <category>Web Development</category>
+        <category>Side Project</category>
         
       </item>
     
       <item>
-        <title>Project 3</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/16/project-3/</guid>
+        <title>Travelers</title>
+        <description>Travelers EDGE was a static website created for The Travelers Companies, Inc. for the 10th anniversary of the Travelers EDGE program. Developed with JavaScript and the HandlebarsJS templating language, my responsibilities included building a DevOps solution using Jenkins and AWS for automatic code deployment as well as assisting with the front-end development.</description>
+        <pubDate>Tue, 20 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4444/work%20project/2016/12/20/travelers/</link>
+        <guid isPermaLink="true">http://localhost:4444/work%20project/2016/12/20/travelers/</guid>
         
         
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 4</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>Web Development</category>
+        <category>Work Project</category>
         
       </item>
     
       <item>
-        <title>Project 6</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/15/project-6/</guid>
+        <title>Bloxeo</title>
+        <description>Bloxeo is an open-source, brainstorming and team-collaboration web application. It utilizes a JSON API back-end written using the ExpressJS MVC framework, a MongoDB NoSQL database and a ReactJS front-end. My main responsibilities for the project included server tasks ranging from unit testing to writing services and data modeling, as well as some work on the front-end.</description>
+        <pubDate>Sun, 04 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4444/school%20project/2016/12/04/bloxeo/</link>
+        <guid isPermaLink="true">http://localhost:4444/school%20project/2016/12/04/bloxeo/</guid>
         
         
-        <category>Web Development</category>
+        <category>School Project</category>
         
       </item>
     
       <item>
-        <title>Project 5</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4444/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4444/web%20development/2014/07/14/project-5/</guid>
+        <title>Mealhero</title>
+        <description>MealHero is an open-source, meal-planning application. It utilizes a JSON API back-end written in Elixir using the Phoenix framework, a PostgreSQL database and a ReactJS front-end. This is an ongoing passion project of mine and is constantly being worked on!</description>
+        <pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4444/side%20project/2016/02/09/mealhero/</link>
+        <guid isPermaLink="true">http://localhost:4444/side%20project/2016/02/09/mealhero/</guid>
         
         
-        <category>Web Development</category>
+        <category>Side Project</category>
         
       </item>
     

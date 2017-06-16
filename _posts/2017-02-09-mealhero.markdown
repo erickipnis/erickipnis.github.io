@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 1
+date: 2016-02-09
+img-small: elixir_logo.png
+img: elixir_logo.png
+alt: The Elixir logo.
+project-date: Feb. 2017 - Present
+project-link: https://github.com/erickipnis/mealhero_server
+github-link-titles:
+ - MealHero Server
+ - MealHero Client
+github-links:
+  - https://github.com/erickipnis/mealhero_server
+  - https://github.com/erickipnis/mealhero_client
+category: Side Project
+project-title: MealHero
+description: MealHero is an open-source, meal-planning application. It utilizes a JSON API back-end written in Elixir using the Phoenix framework, a PostgreSQL database and a ReactJS front-end. This is an ongoing passion project of mine and is constantly being worked on!
+---

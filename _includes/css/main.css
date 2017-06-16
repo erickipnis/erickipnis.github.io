@@ -477,3 +477,8 @@ footer .footer-below {
 .para-link:hover {
   color: white;
 }
+
+.modal-image {
+  width: 380px;
+  height: 270px;
+}

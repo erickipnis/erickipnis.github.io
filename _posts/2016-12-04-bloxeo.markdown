@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 3
+date: 2016-12-04
+img-small: bloxeo_index_small.png
+img: bloxeo_index.png
+alt: The homepage of Bloxeo, a collaborative brainstorming application!
+project-date: Sept. 2015 - Dec. 2016
+client: MAGIC Spell Studios at RIT
+client-site: https://magic.rit.edu/
+project-link: http://bloxeo.herokuapp.com
+github-link-titles:
+ - Bloxeo Server
+ - Bloxeo Client
+github-links:
+  - https://github.com/IGME-Research-Studio/bloxeo-server
+  - https://github.com/IGME-Research-Studio/bloxeo-client
+category: School Project
+project-title: Bloxeo
+description: Bloxeo is an open-source, brainstorming and team-collaboration web application. It utilizes a JSON API back-end written using the ExpressJS MVC framework, a MongoDB NoSQL database and a ReactJS front-end. My main responsibilities for the project included server tasks ranging from unit testing to writing services and data modeling, as well as some work on the front-end.
+---
